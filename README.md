@@ -4,5 +4,3 @@ Repository for Recruitment Task: SemEval Task 5 : [Competition Link](https://com
 Team Members:
 1) Syed Arsalaan Nadim
 2) Rijurekh Haldar
-3) Rashmi Kumari
-4) Ravi Raj
